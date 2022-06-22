@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Running
-        run: node ./src/index.js
+        run: curl https://lit-crag-18169.herokuapp.com/
