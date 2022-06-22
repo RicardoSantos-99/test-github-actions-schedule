@@ -1,0 +1,9 @@
+{
+  "name": "test-github-actions-schedule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RicardoSantos-99/test-github-actions-schedule.git",
+  "author": "Ricardo Carvalho Santos <ricardo2010carvalho@hotmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
